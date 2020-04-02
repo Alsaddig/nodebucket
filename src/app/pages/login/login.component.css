@@ -11,21 +11,21 @@
 */
 
 
-.login.container {
+.signin.container {
   margin-top: 15%;
   width: 30%;
   margin-left: 25%;
   }
 
-  .login.title {
+  .signin.title {
     text-align: center;
     font-size: 48px;
     font-weight: lighter;
   }
 
-  .login-subtitle{
+  .signin-subtitle{
     text-align: center;
-    color: yellow;
+    color: white;
   }
 
   .error-message{
